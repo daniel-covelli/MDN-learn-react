@@ -12,8 +12,6 @@ Topics Include:
 - accessibility
 ```
 
-## Project
-
-###### Todo List
+## Todo List Project
 
 <img src="https://i.gyazo.com/9ac8109a8037487acdca5fb05e9717ed.gif" width="900"/>
