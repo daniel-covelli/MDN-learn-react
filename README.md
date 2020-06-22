@@ -5,7 +5,7 @@ This repository contains course material from MDN's [Learn web development](http
 Topics Include:
 
 ```
-- Components
+- components
 - props
 - conditional rendering
 - forms
